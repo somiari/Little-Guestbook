@@ -96,7 +96,7 @@ if (isset($_POST['submit'])) {
                 </section>
             </div>
 
-            <footer><span class="brand-logo"><img src="/ibrandicon.png" alt=""></span>&copy; 2017 &#8226; iBrand Africa </footer>
+            <footer><span class="brand-logo"></span>&copy; 2017 &#8226; iBrand Africa </footer>
         </div>
 
     </div>
