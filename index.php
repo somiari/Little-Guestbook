@@ -35,11 +35,11 @@ if (isset($_POST['submit'])) {
 <head>
     <meta charset="UTF-8">
     <title>Guestbook</title>
-    <link rel="stylesheet" href="css/style.css">
-    <!-- <link href="https://fonts.googleapis.com/css?family=Josefin+Sans:400,600|PT+Sans:400,600|Open+Sans" rel="stylesheet"> -->
-    <script type="text/javascript" src="jquery-3.2.1.min.js"></script>
-    <link rel="stylesheet" href="font-awesome-4.7.0/css/font-awesome.min.css">
-    <!-- <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script> -->
+    <link rel="stylesheet" href="assets/css/style.css">
+    <link href="https://fonts.googleapis.com/css?family=Josefin+Sans:400,600|PT+Sans:400,600|Open+Sans" rel="stylesheet">
+    <script type="text/javascript" src="../jquery-3.2.1.min.js"></script>
+    <link rel="stylesheet" href="assets/font-awesome-4.7.0/css/font-awesome.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
     <meta name="viewport" content="width=device-width, initial-scale=1">
 </head>
 
