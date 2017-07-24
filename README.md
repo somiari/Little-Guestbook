@@ -1,6 +1,6 @@
 # Little-Guestbook
 
-After reading [Arowosegbe Ifeoluwa's blog post](https://blog.iifeoluwa.com/getting-started-with-nimble-2f7be8e68ffc) on Medium, 
+After reading @iifeoluwa [blog post](https://blog.iifeoluwa.com/getting-started-with-nimble-2f7be8e68ffc) on Medium, 
 I decided to use the idea (and mockup) as my introduction to PHP,and here is my ever-changing implementation.
 
 ### Arowosegbe Ifeoluwa's Original Idea 
